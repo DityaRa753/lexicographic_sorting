@@ -1,0 +1,1 @@
+The program takes a file name as input, then sorts and outputs the sorted file in lexicographic order to the standard output stream. Words are separated when a newline character and a space are found.
