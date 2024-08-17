@@ -1,6 +1,7 @@
 #include "dll.hpp"
 #include <string.h>
 #include <stdio.h>
+/* double linked list */
 
 DLL::DLL()
 {
